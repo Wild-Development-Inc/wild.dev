@@ -1,0 +1,10 @@
+{
+    "id": "e45678",
+    "source": "n12345",
+    "target": "n67890",
+    "relationship": "supports",
+    "strength": 0.9,
+    "created": "2023-04-23T10:16:45Z",
+    "creator": "user123",
+    "signature": "ed25519_signature_for_verification"
+  }

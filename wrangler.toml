@@ -1,0 +1,13 @@
+name = "r2-site"
+type = "javascript"
+
+[vars]
+MY_BUCKET = "your-bucket-name"
+
+[[r2_buckets]]
+binding = "MY_BUCKET"
+bucket_name = "your-bucket-name"
+preview_bucket_name = "your-bucket-name"
+
+[triggers]
+routes = ["example.com/*"]

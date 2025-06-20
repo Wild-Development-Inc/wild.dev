@@ -1,0 +1,9 @@
+{
+    "id": "n12345",
+    "content": "Regular exercise improves mood and cognitive function",
+    "impact": [0, 0, 0.8],  // Simple flourishing vector
+    "tags": ["health", "exercise", "cognition"],
+    "created": "2023-04-23T10:15:30Z",
+    "creator": "user123",
+    "signature": "ed25519_signature_for_verification"
+  }

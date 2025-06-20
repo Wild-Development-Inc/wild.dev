@@ -1,0 +1,71 @@
+## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ##
+
+	   GOALS: 05/30/2025 - 05/31/2025
+	   Just GET MORE SHIT DONE 
+
+## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ##
+
+Wild Development
+  [] github organization with practices
+  [] documentation for many things {}
+  [] api for personal multi-tool | with { static sites }
+
+* Zwyld.com
+	{ 3d scene with 2d screens (game/os) }
+	[] applications?: web development
+	[] infrastructure
+	[] enable access to Wild Development stuff
+
+* Korenblyum.studio
+	{ architecture portfolio }
+	[] asdf
+
+* System 3
+	{ project management }
+	[] develop as a way to balance my disorganized creativity
+	[] like i know that i actually suck at planning
+	[] especially when it comes to long-term project
+
+* TopoGlyph.net
+	[] upload the static site we generated 
+	[] share it with Claire to see what she thinks of it
+**
+* AverageJoes.ai
+	[] get the site deployed as is
+	[] expand the sections for "Great Ways to Start Using AI" 
+	[] making them actually useable (click -> create personalized plan)
+
+* TakeBetterCareOfYourself.com
+	{ life/self management, etc. }
+	[] laws of compound interest for self improvement
+	[] track relationships
+	[] when i think about what to build, 
+		worry about how that shit will effect people/etc.,
+		system to measure/expand + preserve meaning through/during/across expansions;
+		measure how this impacts quality of relationships as reported by others;
+		this definitely includes a person's relationship with themself
+
+## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ##
+
+Processes (because I get off track and don't make progress)
+
+* Cloudflare R2 Static Site Deployment Workflow
+  - Requirements: { Wrangler CLI, R2 Bucket, Domain }
+	1. Configure an R2 Bucket 
+	2. Serving Static Files for Domains 
+	3. Upload Files to R2 Bucket
+
+* 
+
+## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ##
+
+Plans for today again:
+[] Learn how to update the averagejoes.ai site quickly
+[] Repeat the process for topoglyph.net & share w/ claire
+[] Develop an extension for intent guided web browsing
+[] Solidify principles for development, sharing, etc.
+[] Define a framework to augment development processesx
+[] Think more about the design for korenblyum.studio
+[]
+[]
+

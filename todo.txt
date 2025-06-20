@@ -1,0 +1,40 @@
+Questions to Answer
+[] what problems are we gonna prioritize solving and why?
+[] where fun + money + sustain(ability) overlap?
+[] why should you not automate things?
+[] what products am i going to relase?
+    [] what the fuck is my infrastructure you dumb ass
+    [] what is my development process?
+    [] what concerns are there about security, privacy, transparency, etc.? 
+    [] how are these addressed by - xyz?
+
+Websites
+  - ( need a unifying development/maintanence framework 
+  - if i'm going to manage this many sites)
+
+AverageJoes.ai: 
+  - increase accessibility of artificial intelligence knowledge
+
+HasItBeenAutomated.com
+  - increase usability of automations to reduce unnecessary work
+  Marketing 
+   - "automate 80% of the shit you hate doing"
+
+TakeBetterCareOfYourself.com
+  - increase accessibility of health/wellness/self-care knowledge 
+
+Morphegnosis.com
+  - increase accessibility of problem-specific transparently-grounded knowledge 
+
+Zwyld.com
+ - increase accessiblity of self to outside world
+ - showcase really cool applications with non-immediate economic value
+
+Infrastructure
+ - Services: Github, MongoDB, CloudFlare, SpacetimeDB
+ - Tools: Neovim, VSCode
+
+intelligence 
+[] markdown editor assistant
+[] ask questions without worrying about credit limits
+[] store conversations in a queryable/persistent storage place (graph?)
